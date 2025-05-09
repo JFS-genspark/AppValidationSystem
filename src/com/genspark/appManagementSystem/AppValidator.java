@@ -3,8 +3,8 @@ import com.genspark.appManagementSystem.exception.AppSizeTooLargeException;
 import com.genspark.appManagementSystem.exception.DeveloperBannedException;
 import com.genspark.appManagementSystem.exception.InvalidCategoryException;
 import com.genspark.appManagementSystem.exception.PricingException;
-import enums.AllowedCategory;
-import enums.BannedDeveloper;
+import com.genspark.appManagementSystem.enums.AllowedCategory;
+import com.genspark.appManagementSystem.enums.BannedDeveloper;
 
 class AppValidator {
 
